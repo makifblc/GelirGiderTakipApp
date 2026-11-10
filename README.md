@@ -2,6 +2,10 @@
 
 Bu proje; kişisel finans işlemlerinizi (gelir ve giderlerinizi) kolayca yönetebilmeniz için C# Windows Forms ve MySQL kullanılarak geliştirilmiş **basit, şık ve modern** bir masaüstü uygulamasıdır.
 
+## Ekran Görüntüsü
+
+![Gelir Gider Takip Arayüzü](img_1.png)
+
 ## 🚀 Özellikler
 * **Gelir & Gider Yönetimi:** Yeni işlemler ekleyin, mevcut kayıtları güncelleyin veya silin.
 * **Kategori Bazlı Filtreleme:** İşlemlerinizi kategorilere göre filtreleyerek anlık olarak inceleyin.
