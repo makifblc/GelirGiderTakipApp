@@ -4,7 +4,7 @@ Bu proje; kişisel finans işlemlerinizi (gelir ve giderlerinizi) kolayca yönet
 
 ## Ekran Görüntüsü
 
-![Gelir Gider Takip Arayüzü](img_1.png)
+![Gelir Gider Takip Arayüzü](GelirGiderTakipApp/img_1.png)
 
 ## 🚀 Özellikler
 * **Gelir & Gider Yönetimi:** Yeni işlemler ekleyin, mevcut kayıtları güncelleyin veya silin.
